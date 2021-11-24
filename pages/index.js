@@ -18,7 +18,7 @@ export default function Home() {
             alignItems: "center",
           }}
         >
-          <div className="message">hello, world</div>
+          <div className="message">hello, world, vercel</div>
         </div>
       </main>
     </div>
